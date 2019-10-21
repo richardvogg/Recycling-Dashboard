@@ -13,7 +13,7 @@ library(dplyr)
 library(plotly)
 library(tidyr)
 
-setwd("C:/Richard/R and Python/Datasets")
+setwd("ViveEko.xlsx")
 
 viveeko <- read_excel("ViveEko.xlsx",sheet=1)
 
